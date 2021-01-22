@@ -173,7 +173,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2
-◪ *OWNER_NAME2*
+◪ *X-AV2*
 `
 }
 
